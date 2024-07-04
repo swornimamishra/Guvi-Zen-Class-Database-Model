@@ -9,7 +9,7 @@ Name your tables to reflect the entities in your database model.
 (3).Add Columns:
 
 Inside each table, add columns to define the attributes of your entities.
-Specify the data type for each column (e.g., INT, VARCHAR, DATE).
+Specify the data type for each column (e.g., INT, VARCHAR, DATE)
 Indicate primary keys, foreign keys, and unique constraints.
 Establish Relationships:
 
